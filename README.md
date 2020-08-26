@@ -1,1 +1,3 @@
-# Analysis-of-Citizens-Response
+# KCC2020
+
+### 지하철 이용객 수를 이용한 COVID-19 확산에 대한 시민들의 대응 분석 및 MERS-CoV 기간과의 비교
